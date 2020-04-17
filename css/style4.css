@@ -14,27 +14,18 @@ h1 {
     max-width: 500px;
 }
 
-img {
-    max-width: 600px;
-    position: absolute;
-
-}
-
 p {
     font-family: 'Viaoda Libre', cursive;
     letter-spacing: 1px;
     line-height: 35px;
     font-size: 30px;
     position: absolute;
-    margin-left: 642px;
-    max-width: 630px;
     color: darkorange;
-    padding-bottom: 40px;
+    max-width: 500px;
 }
 
 .ways {
     position: absolute;
-    top: 500px;
     left: 670px;
 }
 
@@ -50,8 +41,28 @@ a {
     background-color: darkorange;
 }
 
+.three {
+    color: darkorange;
+    background-color: floralwhite;
+}
+
 a:hover {
     color: darkorange;
     font-style: italic;
     background-color: floralwhite;
+}
+
+.crazy {
+    max-width: 700px;
+    position: absolute;
+    left: 600px;
+    top: 120px;
+}
+
+.home {
+    font-size: 15px;
+    float: right;
+    margin-top: 500px;
+    margin-right: 135px;
+    margin-bottom: 40px;
 }
